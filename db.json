@@ -2,28 +2,19 @@
   {
     "id": 1,
     "title": "Covid-live",
+    "desc": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a  ",
     "category": "#React",
     "view": "https://covid-india-live-state.netlify.app/",
     "url": "https://github.com/riponhaldar/india-covid-19--tracker",
-    "img": "./image/covid-live.png",
-    "desc": "this is page"
+    "img": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
   },
   {
     "id": 2,
-    "title": "responsive",
+    "title": "BLogs",
+    "desc": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a  ",
     "category": "html",
     "view": "https://kolkata-blogs.netlify.app/",
     "url": "https://github.com/riponhaldar/kolkata_Blogs",
-    "img": "./image/kolkata.png",
-    "desc": "this is page"
-  },
-  {
-    "id": 3,
-    "title": "responsive",
-    "category": "#React",
-    "view": "https://jovial-franklin-3dd7ce.netlify.app/",
-    "url": "https://github.com/riponhaldar",
-    "img": "./image/paris.png",
-    "desc": "this is page"
+    "img": "https://images.unsplash.com/photo-1606787947360-4181fe0ab58c?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
   }
 ]
